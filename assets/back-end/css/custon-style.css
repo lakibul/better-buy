@@ -1,0 +1,31 @@
+.navbar-brand .max-h-60{
+    height: 60px !important;
+}
+
+.sidebar-toggle-btn:hover{
+    color: #94C973;
+}
+
+.navbar-vertical-content-custom{
+    background: #94C973;
+    height: calc(100% - 3.75rem) !important;
+}
+
+.menu-search-box{
+    background: rgba(153, 167, 186, 0.1);
+    border-radius: 5px;
+    color: wheat !important;
+}
+
+.menu-search-box:focus{
+    border-bottom: 2px solid #0D0A0A;
+}
+
+.card{
+    border-radius: 5px;
+}
+
+.card-header {
+    border-bottom: 1px dashed #f4f4f4;
+    box-shadow: none;
+}
